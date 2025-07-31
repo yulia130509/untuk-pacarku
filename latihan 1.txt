@@ -1,0 +1,27 @@
+DOCTYPE !>
+<html>
+<head>
+<title> halo ini program saya </title>
+</head>
+<body>
+<pre>
+ini adalah 
+teks terformat.
+Ia menyimpan kedua ruang
+dan jeda baris
+</pre>
+<p> pra tag yang baik untuk menampilkan kode komputer: </p>
+<pre>
+for i = 1 to 10
+           print I
+  next I
+  </pre>
+  <code>kode komputer</code>
+  <br>
+  <kbd>input keyboard</kbd>
+  <br>
+  <var>variabel komputet</var>
+  <br>
+  <p><b>Catatan:</b> tag ini sering digunakan untuk menampilkan kode komputer/pemograman.</p>
+  </body>
+  </html>
